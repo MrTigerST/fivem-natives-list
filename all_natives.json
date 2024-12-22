@@ -5600,8 +5600,7 @@
     "GetPlayerMaxHealth",
     "GetPedInVehicleSeat",
     "GetPlayerInvincible2",
-    "GetPedCollectionNameFromDrawable",
-    "GetPlayerPed",
+    "GetPedCollectionNameFromDrawable"
     "GetPedModelPersonality",
     "GetPedMaxHealth",
     "GetPlayerMaxStamina",
